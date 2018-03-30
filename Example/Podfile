@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XM_NetWorking_Example' do
+  pod 'XM_NetWorking', :path => '../'
+
+  target 'XM_NetWorking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
