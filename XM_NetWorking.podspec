@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XM_NetWorking'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'XM_NetWorking.'
 
 # This description is used to generate tags and improve search results.
@@ -29,13 +29,13 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'XM_NetWorking/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'XM_NetWorking' => ['XM_NetWorking/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit', 'Foundation'
   s.dependency 'AFNetworking', '~> 3.1.0'
 
 end

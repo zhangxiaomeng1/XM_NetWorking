@@ -11,7 +11,7 @@
 #define UserDefaults                         [NSUserDefaults standardUserDefaults]
 #define QXMAccess_token                      @"QXMAccess_token"
 ////-----阿里云线上
-#define QXM_BASEAPP_URL                      @"https://m.jihegupiao.com/jihe/"
+#define QXM_BASEAPP_URL                      @"https://"
 
 
 

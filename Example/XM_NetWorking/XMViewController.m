@@ -7,6 +7,7 @@
 //
 
 #import "XMViewController.h"
+#import "XM_NetWorking.h"
 
 @interface XMViewController ()
 
