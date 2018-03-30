@@ -1,0 +1,6 @@
+framework module Pods_XM_NetWorking_Example {
+  umbrella header "Pods-XM_NetWorking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

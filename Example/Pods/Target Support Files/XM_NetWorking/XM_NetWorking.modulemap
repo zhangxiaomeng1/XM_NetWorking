@@ -1,0 +1,6 @@
+framework module XM_NetWorking {
+  umbrella header "XM_NetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
