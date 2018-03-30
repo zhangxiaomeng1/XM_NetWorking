@@ -43,28 +43,6 @@ THE SOFTWARE.
 		</dict>
 		<dict>
 			<key>FooterText</key>
-			<string>MIT
-</string>
-			<key>License</key>
-			<string>MIT</string>
-			<key>Title</key>
-			<string>CTMediator</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
-			<string>MIT
-</string>
-			<key>License</key>
-			<string>MIT</string>
-			<key>Title</key>
-			<string>CTNetworking</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
 			<string>Copyright (c) 2018 zhangxieomeng1 &lt;zhangxiaomeng@xiangshang360.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

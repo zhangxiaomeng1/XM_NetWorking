@@ -24,16 +24,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-## CTMediator
-
-MIT
-
-
-## CTNetworking
-
-MIT
-
-
 ## XM_NetWorking
 
 Copyright (c) 2018 zhangxieomeng1 <zhangxiaomeng@xiangshang360.com>

@@ -14,13 +14,8 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - CTMediator (13)
-  - CTNetworking (10):
-    - AFNetworking
-    - CTMediator
   - XM_NetWorking (1.0.0):
     - AFNetworking (~> 3.1.0)
-    - CTNetworking
 
 DEPENDENCIES:
   - XM_NetWorking (from `../`)
@@ -28,8 +23,6 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - AFNetworking
-    - CTMediator
-    - CTNetworking
 
 EXTERNAL SOURCES:
   XM_NetWorking:
@@ -37,9 +30,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  CTMediator: 4cbf8ede42efc6b31715be88b78bdc9d94efa840
-  CTNetworking: ebbd1b89a20bc9c298399f4523357cc74be29a6a
-  XM_NetWorking: 38038f193c645da49b20cb7a23d96d98eb86da07
+  XM_NetWorking: 8dea8409d6cc67c9c6e662ce74054de0d59a1cd8
 
 PODFILE CHECKSUM: 1ad486665101539056ad1d1d56811e84985d5a7c
 
